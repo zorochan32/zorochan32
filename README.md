@@ -11,10 +11,11 @@
 ---
 
 ## 🚀 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zorochan32&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zorochan32&layout=compact&theme=radical" />
-</p>
+
+![Zoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=zorochan32&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zorochan32&layout=compact&theme=radical)
+
 
 ---
 
