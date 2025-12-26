@@ -34,14 +34,12 @@
   <a href="https://github.com/zorochan32/KeyBordKeyBlocker-With-out-Run-as-Admin-">
     <img src="https://camo.githubusercontent.com/keyblocker-screenshot.png" alt="KeyBordKeyBlocker" width="250" />
   </a>
-  <a href="https://github.com/zorochan32/GlobalKeyboardRandomizer">
-    <img src="https://camo.githubusercontent.com/globalkeyboard-screenshot.png" alt="GlobalKeyboardRandomizer" width="250" />
-  </a>
+  
 </p>
 
 <p align="center">
   <strong>KeyBordKeyBlocker</strong>: Block keyboard keys on Windows without Admin rights.<br>
-  <strong>GlobalKeyboardRandomizer</strong>: Custom keyboard tool for random key actions in games.
+.
 </p>
 
 ---
