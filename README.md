@@ -29,7 +29,7 @@ A custom keyboard tool for random key actions in games.
 ---
 
 ## 📫 Contact
-[Discord](https://discordapp.com/users/...) | [LinkedIn](https://www.linkedin.com/in/...) | [Email](mailto:your_email@example.com)
+[Discord](https://discord.gg/VMCXEnzv6w) | [Email](mailto:alirezagambo@gmail.com)
 
 ---
 
