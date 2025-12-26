@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/your-banner-image.png" alt="Banner" width="100%" />
+  <img src="[https://camo.githubusercontent.com/your-banner-image.png](https://media1.tenor.com/m/cOhgxKZrGqQAAAAC/zoro-one-piece.gif)" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Zoro 👋</h1>
