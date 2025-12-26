@@ -1,35 +1,57 @@
-# Hi, I'm Zoro 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://camo.githubusercontent.com/your-banner-image.png" alt="Banner" width="100%" />
+</p>
 
-I'm a software developer and game enthusiast.  
-I love **C#**, **Python**, and building cool tools and games.  
-
----
-
-## 🚀 Stats
-![Zoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=zorochan32&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zorochan32&layout=compact&theme=radical)
-
----
-
-## 🛠️ Skills
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+<h1 align="center">Hi, I'm Zoro 👋</h1>
+<p align="center">
+  Software Developer | Game Enthusiast | C# & Python Lover
+</p>
 
 ---
 
-## 📂 Pinned Projects
-### [KeyBordKeyBlocker](https://github.com/zorochan32/KeyBordKeyBlocker-With-out-Run-as-Admin-)
-Block keyboard keys on Windows without Admin access.
-
-### [GlobalKeyboardRandomizer](https://github.com/zorochan32/GlobalKeyboardRandomizer)
-A custom keyboard tool for random key actions in games.
+## 🚀 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zorochan32&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zorochan32&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## 📫 Contact
-[Discord](https://discord.gg/VMCXEnzv6w) | [Email](mailto:alirezagambo@gmail.com)
+## 🛠️ Skills & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 🎮 Featured Projects
+<p align="center">
+  <a href="https://github.com/zorochan32/KeyBordKeyBlocker-With-out-Run-as-Admin-">
+    <img src="https://camo.githubusercontent.com/keyblocker-screenshot.png" alt="KeyBordKeyBlocker" width="250" />
+  </a>
+  <a href="https://github.com/zorochan32/GlobalKeyboardRandomizer">
+    <img src="https://camo.githubusercontent.com/globalkeyboard-screenshot.png" alt="GlobalKeyboardRandomizer" width="250" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>KeyBordKeyBlocker</strong>: Block keyboard keys on Windows without Admin rights.<br>
+  <strong>GlobalKeyboardRandomizer</strong>: Custom keyboard tool for random key actions in games.
+</p>
+
+---
+
+## 📫 Contact Me
+<p align="center">
+  <a href="https://discordapp.com/users/..."><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/..."><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
