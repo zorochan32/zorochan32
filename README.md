@@ -33,14 +33,14 @@
 
 ## 🎮 Featured Projects
 <p align="center">
-  <a href="https://github.com/zorochan32/KeyBordKeyBlocker-With-out-Run-as-Admin-">
+  <a href="https://github.com/zorochan32/KeyBoardKeyBlocker-With-out-Run-as-Admin-">
     <img src="https://camo.githubusercontent.com/keyblocker-screenshot.png" alt="KeyBordKeyBlocker" width="250" />
   </a>
   
 </p>
 
 <p align="center">
-  <strong>KeyBordKeyBlocker</strong>: Block keyboard keys on Windows without Admin rights.<br>
+  <strong>KeyBoardKeyBlocker</strong>: Block keyboard keys on Windows without Admin rights.<br>
 .
 </p>
 
