@@ -36,8 +36,13 @@
   <a href="https://github.com/zorochan32/KeyBoardKeyBlocker-With-out-Run-as-Admin-">
     <img src="https://camo.githubusercontent.com/keyblocker-screenshot.png" alt="KeyboardKeyBlocker" width="250" />
   </a>
-  
 </p>
+<p align="center">
+  <a href="https://github.com/zorochan32/AuraControl/">
+    <img src="https://i.imgur.com/Jf7goEd.png" alt="AuraControl" width="250" />
+  </a>
+</p>
+
 
 <p align="center">
   <strong>KeyBoardKeyBlocker</strong>: Block keyboard keys on Windows without Admin rights.<br>
