@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi, I'm Zoro 👋</h1>
 <p align="center">
-  Software Developer | Game Enthusiast | C# & Python Lover
+  Software Developer | Game Developer | C# & Python Programmer
 </p>
 
 ---
