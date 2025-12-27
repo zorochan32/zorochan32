@@ -34,7 +34,7 @@
 ## 🎮 Featured Projects
 <p align="center">
   <a href="https://github.com/zorochan32/KeyBoardKeyBlocker-With-out-Run-as-Admin-">
-    <img src="https://camo.githubusercontent.com/keyblocker-screenshot.png" alt="KeyBordKeyBlocker" width="250" />
+    <img src="https://camo.githubusercontent.com/keyblocker-screenshot.png" alt="KeyboardKeyBlocker" width="250" />
   </a>
   
 </p>
