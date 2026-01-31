@@ -14,7 +14,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/zorochan32?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/zorochan32?style=flat-square)
-![Top Language](https://img.shields.io/github/languages/top/zorochan32/KeyBordKeyBlocker-With-out-Run-as-Admin-?style=flat-square)
+![Top Language](https://img.shields.io/github/languages/top/zorochan32/AuraControl-?style=flat-square)
 
 
 
