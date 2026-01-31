@@ -56,7 +56,7 @@
 </p>
 
 ---
-![Badge Text](https:/avatars.githubusercontent.com/u/202189785?v=4)](https:/github.com/AmirAbbas-Shahravi)
+- my bro:  [![Badge Text](https://avatars.githubusercontent.com/u/202189785?v=4)](https://github.com/zorochan32)
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zorochan32&color=blue)
